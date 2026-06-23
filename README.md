@@ -11,6 +11,8 @@
 
 **EN:** Mobix is a multi-tenant SAAS system built with PHP 8 + MySQL 8 for electronics repair shop management. It was deployed and validated in a real repair shop in Recife/PE, solving daily operational challenges such as service order tracking, inventory management, sales control, and management reporting.
 
+> ![Interface - Mobix](https://raw.githubusercontent.com/meaeduarda/saas_mobix/main/sistema_mobix.png)
+
 ---
 
 ## Stack
